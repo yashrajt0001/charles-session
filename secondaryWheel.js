@@ -2,11 +2,11 @@ const axios = require('axios');
 
 // secondary
 const AUTH_TOKEN = "eyJhbGciOiJFUzI1NiIsImtpZCI6ImpFdDlIMXZMaUg3SFFyb21KYVBUeVQyejI2a0tlU3liRW1jeFFOTEVDZzZzUW02OExOSkZ0OHU1U1FTSGk2bm4ifQ.eyJfaWQiOiI2ODBhNmFjMzBjM2Y2ZGEwZjJjZGU5MjEiLCJlbWFpbCI6ImJvaW5rZXJfNzI4NzM0OF8xNTU1MDJAZ2VuLmFzdHJvbm9taWNhLmlvIiwidXNlck5hbWUiOiJib2lua2VyXzcyODczNDgiLCJ1c2VyVHlwZSI6MSwiYWJDbGFzcyI6ImIiLCJzY2hlbWFWZXJzaW9uIjoyMTM4ODQ3NzQ4LCJsYXN0VXBkYXRlZFRpbWUiOjE3NDYxNzE0OTU4OTAsInN1YiI6IjY4MGE2YWMzMGMzZjZkYTBmMmNkZTkyMSIsImlhdCI6MTc0NjE3MTQ5MiwiaXNzIjoidXJuOmFzdHJvbm9taWNhIiwiYXVkIjoidXJuOmJvaW5rZXJzLWp3dC1hdWRpZW5jZSIsImV4cCI6MTc1NDgxMTQ5Mn0.L-kvjYbcEYVBAts2e_Id31Ouvx0jdDmZF6dRkML1rC3Cr9zBocrhh4f_Et2roLJT5S34YUfB_ste-F3kW5Fx6g";
-const LIVE_OP_ID = "681a054224e66d0eac7d0aaf";
+const LIVE_OP_ID = "681b1d7a59c2d4273c3cf7ef";
 
 const BASE_URL = "https://boinkers.io/api/play/spinWheelOfFortune/";
-const QUERY_PARAMS = "?p=unknown&v=-1438545913";
-const BET_AMOUNT = 10;
+const QUERY_PARAMS = "?p=unknown&v=-202426036";
+const BET_AMOUNT = 100;
 
 const API_URL = `${BASE_URL}${BET_AMOUNT}${QUERY_PARAMS}`;
 let requestCount = 0;
