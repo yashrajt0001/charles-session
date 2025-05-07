@@ -1,0 +1,946 @@
+[
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "1-48-84-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "1-24-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "1-72-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "1-48-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "0-24-50-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "0-72-50-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "0-48-50-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "0-48-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "1-24-84-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "1-72-84-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "0-72-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "1-48-30-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "1-24-30-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "1-72-30-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "0-48-20-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "0-24-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "0-72-20-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "0-24-20-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "31-32-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "31-48-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "9-0-70-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "8-8-70-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "31-64-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "31-32-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "31-48-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "30-32-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "29-24-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "30-64-100-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "30-64-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "30-48-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "31-64-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "30-64-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "30-48-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "29-72-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "10-26-140-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "31-32-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "30-32-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "30-32-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "30-48-100-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "31-48-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "29-40-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "29-24-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "30-48-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "29-56-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "29-56-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "28-48-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "29-24-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "9-96-70-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "28-32-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "27-40-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "31-64-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "30-16-110-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "30-32-100-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "26-40-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "8-88-70-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "27-24-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "5-40-0-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "29-40-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "29-40-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "28-32-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "28-64-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "27-56-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "3-48-20-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "29-24-100-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "27-72-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "10-70-140-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "26-56-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "25-48-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "27-24-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "28-32-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "29-72-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "29-40-100-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "28-32-100-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "28-64-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "27-24-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "9-24-140-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "28-48-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "27-56-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "27-40-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "26-40-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "27-72-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "25-32-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "2-0-110-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "26-56-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "25-48-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "24-40-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "9-72-140-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "24-40-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "24-56-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "23-56-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "23-40-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "29-56-100-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "5-56-0-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "7-8-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "30-80-110-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "4-64-10-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "28-48-100-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "22-32-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "23-40-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "25-64-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "24-56-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "27-24-100-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "23-56-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "22-48-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "22-64-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "22-48-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "21-40-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "30-64-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "29-56-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "28-48-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "21-40-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "21-56-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "21-56-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "20-48-70-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "1-24-120-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "27-40-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "2-48-10-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "20-32-50-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "4-32-10-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "19-24-50-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "27-40-100-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "5-24-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "1-8-120-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "20-64-70-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "8-22-140-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "19-72-70-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "29-72-100-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "6-8-50-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "5-8-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "28-64-100-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "8-74-140-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "2-0-30-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "27-56-100-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "7-88-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "6-88-50-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "4-16-30-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "27-72-100-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "20-64-90-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "3-24-20-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "20-32-90-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "2-32-10-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "19-72-90-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "29-72-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "20-48-90-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "20-32-70-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "19-24-90-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "7-76-140-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "19-56-90-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "1-64-100-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "1-72-120-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "19-56-70-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "5-88-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "2-96-30-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "6-78-140-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "7-20-140-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_USE_PROP",
+    "id": "0-288235673"
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "28-64-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "27-56-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "27-72-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "20-64-50-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "19-72-50-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "2-96-110-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "20-48-50-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "19-56-50-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "19-40-70-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "5-72-40-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "1-88-120-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "19-40-90-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "19-40-50-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "1-32-100-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "6-18-140-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "19-24-70-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "18-32-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "5-80-140-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "4-80-30-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_CHOOSE_COMMON_BLOCK",
+    "id": "19-24-70-288235673",
+    "type": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "18-32-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "3-72-20-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "5-16-140-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "18-48-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "17-40-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "18-64-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "17-56-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "18-64-60-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "16-48-80-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "4-14-140-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "19-56-90-288235673",
+    "block_state": 2
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "3-12-140-288235673",
+    "block_state": 0
+  },
+  {
+    "command": "CMD_TOUCH_BLOCK",
+    "id": "2-10-140-288235673",
+    "block_state": 0
+  }
+]
